@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ebay.testinfrastructure:testsuite-controller:release-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/testsuite-controller/release-SNAPSHOT/testsuite-controller-release-20200903.175127-73.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/testsuite-controller/release-SNAPSHOT/testsuite-controller-release-20200903.175127-73-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/testsuite-controller/release-SNAPSHOT/testsuite-controller-release-20200903.175127-73-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

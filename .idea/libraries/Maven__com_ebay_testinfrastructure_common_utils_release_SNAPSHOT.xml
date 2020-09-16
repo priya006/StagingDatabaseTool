@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ebay.testinfrastructure:common-utils:release-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/common-utils/release-SNAPSHOT/common-utils-release-20200903.175210-70.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/common-utils/release-SNAPSHOT/common-utils-release-20200903.175210-70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/common-utils/release-SNAPSHOT/common-utils-release-20200903.175210-70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

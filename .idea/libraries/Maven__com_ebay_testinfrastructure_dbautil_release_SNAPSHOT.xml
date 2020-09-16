@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ebay.testinfrastructure:dbautil:release-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/dbautil/release-SNAPSHOT/dbautil-release-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/dbautil/release-SNAPSHOT/dbautil-release-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/raptor2/com/ebay/testinfrastructure/dbautil/release-SNAPSHOT/dbautil-release-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
