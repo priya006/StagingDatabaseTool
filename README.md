@@ -9,3 +9,13 @@ Jsp Web app Displaying data from local database in a webpage hosted locally
 5. Copy the jar file  `mysql-connector-java-5.1.5-bin.jar` in the target folder of your Java project
 6. Mak sure you have mysql server running locally in the port `3306` and it has a database and a table with data to query
 
+# How to run the Jsp Program in IntelliJ Idea Ultimate?
+1. Follow the instruction in https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-ee-application.html
+The Jsp Page served locally opens up automatically
+
+# How to debug the Jsp program?
+1. Debug the Jsp program in intellij like any Java program. Evaluate expression in intellij is so handy in debugging :) 
+
+
+
+
